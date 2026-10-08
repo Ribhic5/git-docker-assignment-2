@@ -9,3 +9,4 @@ The application listens on port 8000 and returns a text response when accessed o
 ## Verification
 
 Verify the application through localhost on host port 8080, mapped to container port 8000.
+Verify that the application response includes Status: healthy - ribhia.
